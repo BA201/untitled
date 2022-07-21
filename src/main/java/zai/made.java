@@ -8,5 +8,6 @@ public class made {
         System.out.println("我曹666");
         System.out.println("我曹666");
         System.out.println("我曹666");
+        System.out.println("ssh免密登陆");
     }
 }
