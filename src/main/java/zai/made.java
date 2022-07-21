@@ -12,6 +12,7 @@ public class made {
         System.out.println("ssh免密登陆2.0版本");
         System.out.println("sshmainmi更新了");
         System.out.println("更新失败");
+          System.out.println("更新失败不更新了");
 
 
     }
